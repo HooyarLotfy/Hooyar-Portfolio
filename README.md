@@ -35,9 +35,9 @@ For full details, see the **[LICENSE](LICENSE)** file or visit:
 ## 📨 Contact  
 Feel free to reach out via the contact form or connect with me on:  
 - 🌐 [Your Portfolio Link](https://yourwebsite.com)  
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- 📧 Email: robin.hooyar@gmail.com  
+- 💼 LinkedIn: hooyar lotfy(https://linkedin.com/in/hooyarlotfy)  
 
 ---  
 
-🚀 Created with ❤️ by **[Your Name]**  
+🚀 Created with ❤️ by **[Hooyar Lotfy]**  
