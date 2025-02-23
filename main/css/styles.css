@@ -42,12 +42,16 @@ body *:not(nav *):not(footer *):not(header):not(nav) {
   }
 }
 
-#projects, #contact ,#about {
-  animation: appear-transform linear;
+
+
+#about, #contact ,#projects,#skills{
+  animation: fadeIn linear;
   animation-timeline: view();
   animation-range: entry 0% cover 30%;
   behavior: smooth;
 }
+
+
 
 @keyframes appear-transform {
   from {
